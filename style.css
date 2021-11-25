@@ -1,0 +1,28 @@
+#copyright_footer{
+   background-color: white;
+   margin: 0px;
+   line-height: 20px;
+   bottom: 0;
+   position: fixed;
+   width: 100%;
+}
+
+.modal-dialog{
+   width: 90%;
+}
+
+.instructionsImage{
+   display: inline-block;
+   width: 45%;
+}
+   
+video{
+   background-image: url('game_console.png');
+   background-size: cover;
+   background-position: center;
+   padding: 25px;
+}
+body{
+   background-position: center;
+   background-size:cover;
+}
